@@ -1,0 +1,102 @@
+{
+  "items": [
+    {
+      "id": "5F1F2A6B-1111-4A3B-9E22-000000000001",
+      "tipo": "concierto",
+      "nombre": "Rock & Code Fest",
+      "fecha": "2025-11-20T19:30:00Z",
+      "duracionMin": 120,
+      "lugar": "Auditorio UCAM",
+      "color": "indigo",
+      "participantes": ["Claudio", "Klauss", "María"],
+      "estado": "confirmado",
+      "web": "https://ucam.edu",
+      "youtube": "https://youtu.be/dQw4w9WgXcQ",
+      "redes": ["https://twitter.com/eventifyfest"],
+      "latitud": 37.991715766710534,
+      "longitud": -1.1852604758556018,
+      "historial": [
+        { "nombre": "planificado", "fechaCambio": "2025-10-01T10:00:00Z" },
+        { "nombre": "confirmado", "fechaCambio": "2025-10-15T09:00:00Z" }
+      ]
+    },
+    {
+      "id": "5F1F2A6B-2222-4A3B-9E22-000000000002",
+      "tipo": "taller",
+      "nombre": "SwiftUI desde cero",
+      "fecha": "2025-12-02T16:00:00Z",
+      "duracionMin": 90,
+      "lugar": "Aula 3.1",
+      "color": "azul",
+      "participantes": ["Ana", "Luis"],
+      "estado": "planificado",
+      "web": "https://developer.apple.com/swiftui",
+      "youtube": null,
+      "redes": null,
+      "latitud": 37.9900,
+      "longitud": -1.1300,
+      "historial": [
+        { "nombre": "planificado", "fechaCambio": "2025-10-10T12:00:00Z" }
+      ]
+    },
+    {
+      "id": "5F1F2A6B-3333-4A3B-9E22-000000000003",
+      "tipo": "deporte",
+      "nombre": "Maratón Ciudad",
+      "fecha": "2025-12-14T08:00:00Z",
+      "duracionMin": 240,
+      "lugar": "Calles principales",
+      "color": "rojo",
+      "participantes": ["Luis", "Carla", "Andrés"],
+      "estado": "planificado",
+      "web": "https://web.rockthesport.com/es",
+      "youtube": null,
+      "redes": ["https://instagram.com/maratonciudad"],
+      "latitud": 40.4300,
+      "longitud": -3.7100,
+      "historial": [
+        { "nombre": "planificado", "fechaCambio": "2025-10-20T10:00:00Z" }
+      ]
+    },
+    {
+      "id": "5F1F2A6B-4444-4A3B-9E22-000000000004",
+      "tipo": "ocio",
+      "nombre": "Feria del Libro",
+      "fecha": "2025-11-18T10:00:00Z",
+      "duracionMin": 480,
+      "lugar": "Parque Central",
+      "color": "verde",
+      "participantes": ["Ana", "Miguel"],
+      "estado": "confirmado",
+      "web": "https://ferialibromadrid.com",
+      "youtube": "https://youtu.be/abcd1234",
+      "redes": ["https://facebook.com/ferialibro"],
+      "latitud": 40.4200,
+      "longitud": -3.7050,
+      "historial": [
+        { "nombre": "planificado", "fechaCambio": "2025-09-25T09:00:00Z" },
+        { "nombre": "confirmado", "fechaCambio": "2025-10-05T12:00:00Z" }
+      ]
+    },
+    {
+      "id": "5F1F2A6B-5555-4A3B-9E22-000000000005",
+      "tipo": "reunion",
+      "nombre": "Encuentro de Startups",
+      "fecha": "2026-01-15T17:00:00Z",
+      "duracionMin": 180,
+      "lugar": "Centro de Innovación",
+      "color": "amarillo",
+      "participantes": ["Sofía", "Pedro", "Javier"],
+      "estado": "planificado",
+      "web": "https://www.todostartups.com",
+      "youtube": null,
+      "redes": ["https://linkedin.com/company/startupsmeet"],
+      "latitud": 40.4500,
+      "longitud": -3.7000,
+      "historial": [
+        { "nombre": "planificado", "fechaCambio": "2025-11-01T11:00:00Z" }
+      ]
+    }
+  ]
+}
+
